@@ -12,7 +12,7 @@ A text edtior that uses PWA to allow for download and offline use. This allows t
 * [Questions](#questions)
 
 ## Installation
-Install the dependencies by using `npm i' or `npm install`.
+Install the dependencies by using `npm i` or `npm install`.
 
 In the client folder, use `npm run build` to create the dist folder.
 then use `npm run start` in the root folder to run the application, or simply use the heroku link.
